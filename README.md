@@ -1,2 +1,2 @@
 # JavaScript-Card-Game
-Donkey (card game) Donkey, also known as Pig, is a collecting card game 
+https://epineda312.github.io/JavaScript-Dice-Game/
